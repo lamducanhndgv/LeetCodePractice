@@ -1,6 +1,6 @@
 # LỜI GIẢI 
 
-## Cách giải 1: Sử dụng Inorder Traversal và Mảng lưu kết
+## Cách giải 1: Sử dụng Inorder Traversal và Mảng lưu kết quả
 
 #### Ý tưởng 
 -   Nhận ra rằng output của đề bài chính là kết quả của duyệt theo Inorder.
