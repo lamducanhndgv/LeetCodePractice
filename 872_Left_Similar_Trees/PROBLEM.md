@@ -18,22 +18,24 @@
 ### Ví dụ
 
 #### Ví dụ 1:
-- Input
-    - root1 
+-   Input
+ 
 ```
+    root1
+    
        2
       / \
      2   5
     / \   \
    2   1   2
-```
-    - root2
-```
+
+    root2
+
        1
       / \
      7   6
     /   / \
    2   1   2
 ```
-- Output
+- Output <br\>
 ``` true ```
