@@ -1,6 +1,6 @@
 # Leetcode Problems and Solutions 
 
-## List of problems
+## Problems
 
 ### Easy
 -   [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)([solution](https://github.com/lamducanhndgv/LeetCodePractice/blob/master/226_Invert_Binary_Tree/SOLUTION.md))
